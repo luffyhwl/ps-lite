@@ -94,3 +94,4 @@ learning algorithms codes into different projects such as `dmlc-core` and
      Yu. [Communication Efficient Distributed Machine Learning with the Parameter Server](http://www.cs.cmu.edu/~muli/file/parameter_server_nips14.pdf). In
      Neural Information Processing Systems (NIPS), 2014
 
+test
